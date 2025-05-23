@@ -21,7 +21,7 @@ Frontend	 HTML5,CSS3,JavaScript	User interface and interactivity
 Styling	   CSS Variables	        Consistent color scheme
 
 #OUTPUT
-![Image](https://github.com/user-attachments/assets/5e298ad3-b5e2-418b-b3c5-d9c48aa0e043)
+![Image](https://github.com/user-attachments/assets/ee51e2c2-eb47-455a-8c50-477c8d267540)
 
 ![Image](https://github.com/user-attachments/assets/5e298ad3-b5e2-418b-b3c5-d9c48aa0e043)
 
